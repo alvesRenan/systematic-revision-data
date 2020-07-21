@@ -1,0 +1,251 @@
+Bibtex Key	Title	Year	URL	Descartado? (S/N) Marcar critério no parsifal	Qual o método de avaliação utilizado (simulação, modelagem analitica, aferição)?	A aplicação está disponível? Open source? Link	Quais as aplicações utilizadas nos testes realizados? Usou alguma benchmarking tool?	Quais as categorias de aplicações (ImageTools, Math, Streaming)?	Usou algum testbed? Real ou virtual?	Quais e quantos dispositivos foram utilizados?	Qual arquitetura utilizada (Single ou multi-cloudlet, Nuvem, D2D, Híbrido, Edge)?	Quais as métrica de avaliação foram adotadas (tempo, energia)?
+7944859	Table of contents	2017		Sim								
+7474392	[Title page i]	2016		Sim								
+7745818	[Title page]	2016		Sim								
+8738943	Guest Editorial Emerging Computing Offloading for IoTs: Architectures, Technologies, and Applications	2019		Sim								
+8928057	Service Proactive Caching Based Computation Offloading for Mobile Edge Computing	2019		Não	Simulação	Não	Não detalha	Não detalha	Não	1-50 dispositivos simulados	MEC (1 servidor na estação base)	Execution delay e energy consumption; Task size; Número de tasks simultaneas
+8731806	Guest Editors’ Introduction: Special Section on Mobile Cloud Computing	2019		Sim								
+8523681	Efficient Task Scheduling With Stochastic Delay Cost in Mobile Edge Computing	2019		Sim								
+8368990	MEC-aware cell association for 5G heterogeneous networks	2018		Sim								
+7915547	Augmented reality based on edge computing using the example of remote live support	2017		Não	Experimentação	Não	AR, Video Tracking	Streaming	Equipamentos reais	1	Edge (1 notebook)	Tempo de transferência e tempo de execução
+8937028	Energy Efficiency and Delay Tradeoff for Wireless Powered Mobile-Edge Computing Systems With Multi-Access Schemes	2020		Não	Simulação	Não	Não detalha	Não detalha	Não	Não detalha	MEC (1 MEC server has sufficient computing capability to process the tasks from users within the current time block)	Consumo de energia e tamanho da fila no servidor
+8928522	Adaptive Resource Allocation in Future Wireless Networks With Blockchain and Mobile Edge Computing	2020		Sim								
+8689240	Optimal Computation and Spectrum Resource Sharing in Cooperative Mobile Edge Computing Systems : (Invited Paper)	2018		Sim								
+8109395	QoE-Aware Task Offloading for Time Constraint Mobile Applications	2017		Sim								
+9000632	Intelligent Mobile Edge Computing With Pricing in Internet of Things	2020		Sim - não apresenta detalhes do experimento								
+8761274	Economical Profit Maximization in MEC Enabled Vehicular Networks	2019										
+8730879	Context-Aware Caching with Social Behavior in MEC-Enabled Wireless Cellular Networks	2019										
+9013239	Resource Allocation for NOMA MEC Offloading	2019										
+8362885	Energy efficient scheduling for IoT applications with offloading, user association and BS sleeping in ultra dense networks	2018										
+7828263	Green Cloudlet Network: A Distributed Green Mobile Cloud Network	2017										
+7972366	Opportunistic task offloading in vehicular networks	2017										
+9013846	Joint Optimization of Task Assignment and Power Allocation for NOMA-Aided MEC Systems	2019										
+8109426	Energy-Efficient Resource Allocation for Cache-Assisted Mobile Edge Computing	2017										
+8932187	Energy Optimization for Cellular-Connected Multi-UAV Mobile Edge Computing Systems with Multi-Access Schemes	2018										
+8924677	A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing	2020										
+8885793	Mobile-Edge Computation Offloading and Resource Allocation in Heterogeneous Wireless Networks	2019										
+8689194	Intelligent Video Surveillance based on Mobile Edge Networks	2018										
+9017135	MEC-Driven UAV Routine Inspection System in Wind Farm under Wind Influence	2019										
+7506220	Supporting Mobile Cloud Computing in Smart Cities via Randomized Algorithms	2018										
+9013857	Computation Offloading in C-RAN: A Sequential Computation Model	2019										
+8928100	Capacity and Rate Maximization in MEC Systems	2019										
+8933487	Computation-Efficient Offloading and Trajectory Scheduling for Multi-UAV Assisted Mobile Edge Computing	2020										
+7561037	Multi-user computation offloading as Multiple Knapsack Problem for 5G Mobile Edge Computing	2016										
+8904387	Task Scheduling for Mobile Edge Computing with Multiple Links	2019										
+9016631	UAV-Assisted Multi-Access Edge Computing System: An Energy-Efficient Resource Management Framework	2020										
+8406926	Joint load management and resource allocation in the energy harvesting powered small cell networks with mobile edge computing	2018										
+7874147	Hermes: Latency Optimal Task Assignment for Resource-constrained Mobile Computing	2017										
+9013164	Network Energy Efficient Mobile Edge Computing with Reliability Guarantees	2019										
+8377224	SDN-based Local breakout for mobile edge computing in radio access network	2018										
+9013434	Joint Resource Optimization for Adaptive Multimedia Services in MEC-Based Vehicular Networks	2019										
+8029251	A-Priori Estimation of Computation Times in Fog Networked Robotics	2017										
+8555528	Price-based Joint Offloading and Resource Allocation for Ad Hoc Mobile Cloud	2018										
+8767017	UAV-Assisted Relaying and Edge Computing: Scheduling and Trajectory Optimization	2019										
+9013384	Virtual Resource Allocation for Mobile Edge Computing: A Hypergraph Matching Approach	2019										
+8635770	Game-theoretic Learning-based QoS Satisfaction in Autonomous Mobile Edge Computing	2018										
+8638800	Dynamic Task Offloading and Resource Allocation for Ultra-Reliable Low-Latency Edge Computing	2019										
+8690922	Data Offloading and Sharing for Latency Minimization in Augmented Reality Based on Mobile-Edge Computing	2018										
+8798731	Resource Allocation for a UAV-Enabled Mobile-Edge Computing System: Computation Efficiency Maximization	2019										
+8885934	Joint Hybrid Beamforming and Offloading for mmWave Mobile Edge Computing Systems	2019										
+9032765	To Offload Selective Search: Improving Performance of Fast R-CNN based on A Mobile Cloud Offloading Framework	2019										
+8360855	Semantic Multimedia Fog Computing and IoT Environment: Sustainability Perspective	2018										
+8844612	Side Channel Attacks in Computation Offloading Systems with GPU Virtualization	2019										
+8689256	User Cooperation for NOMA-Based Mobile Edge Computing	2018										
+8927902	Resource Allocation in Blockchain System Based on Mobile Edge Computing Networks	2019										
+8772198	Cross-Layer Design for Mission-Critical IoT in Mobile Edge Computing Systems	2019										
+9013836	A Learning-Based Expected Best Offloading Strategy in Wireless Edge Networks	2019										
+8801829	Resource Allocation in Information-Centric Wireless Networking With D2D-Enabled MEC: A Deep Reinforcement Learning Approach	2019										
+8709200	Energy and Computational Resources Optimization in a Mobile Edge Computing Node	2018										
+8854900	Parallel Offloading in Green and Sustainable Mobile Edge Computing for Delay-Constrained IoT System	2019										
+9013760	A Vehicle-Assisted Data Offloading in Mobile Edge Computing Enabled Vehicular Networks	2019										
+9000853	Neural Combinatorial Optimization for Energy-Efficient Offloading in Mobile Edge Computing	2020										
+8885984	Joint Computation Offloading and Resource Allocation for Min-Max Fairness in MEC Systems	2019										
+8710260	A Scalable Energy vs. Latency Trade-Off in Full-Duplex Mobile Edge Computing Systems	2019										
+8462297	Min-Max Latency Optimization for Multiuser Computation Offloading in Fog-Radio Access Networks	2018										
+8921011	Joint Optimization of Execution Latency and Energy Consumption for Mobile Edge Computing with Data Compression and Task Allocation	2019										
+8734210	Time-Optimized Task Offloading Decision Making in Mobile Edge Computing	2019										
+9012661	Steering Traffic via Recurrent Neural Networks in Challenged Edge Scenarios	2019										
+7510809	Distributed algorithm for energy efficient multi-hop computation offloading	2016										
+7917629	Towards edge-caching for image recognition	2017										
+8567687	Latency-Oblivious Incentive Service Offloading in Mobile Edge Computing	2018										
+8404830	Discrimination on offloading performance in two-class mobile edge computing systems	2018										
+8689226	Energy optimization for Cellular-Connected UAV Mobile Edge Computing Systems	2018										
+8094835	Work-in-progress: towards efficient quantized neural network inference on mobile devices	2017										
+8428426	CrowdVision: A Computing Platform for Video Crowdprocessing Using Deep Learning	2019										
+8993779	Energy-Efficient Multimedia Task Assignment and Computing Offloading for Mobile Edge Computing Networks	2020										
+7944889	Energy-Aware Fault Tolerant Task offloading of Mobile Cloud Computing	2017										
+8849601	A Computation-Communication Tradeoff Study for Mobile Edge Computing Networks	2019										
+8651320	Near-Optimal and Truthful Online Auction for Computation Offloading in Green Edge-Computing Systems	2020										
+8703710	Enhancing Information Security via Physical Layer Approaches in Heterogeneous IoT With Multiple Access Mobile Edge Computing in Smart City	2019										
+8673584	Joint Power and Time Allocation for NOMA–MEC Offloading	2019										
+8066734	Fast algorithms for capacitated cloudlet placements	2017										
+8660705	Joint Task Assignment and Resource Allocation for D2D-Enabled Mobile-Edge Computing	2019										
+9014240	A Reverse Auction Model for Efficient Resource Allocation in Mobile Edge Computation Offloading	2019										
+8981915	Joint Offloading and Charge Cost Minimization in Mobile Edge Computing	2020										
+8876612	Collision-Free Sequential Task Offloading for Mobile Edge Computing	2020										
+9007675	Joint Task Offloading and Resource Allocation for Obtaining Fresh Status Updates in Multi-Device MEC Systems	2020										
+8115808	Complete edge function onloading for effective backend-driven cyber foraging	2017										
+9016432	Machine Learning Based Edge-Assisted UAV Computation Offloading for Data Analyzing	2020										
+8491299	Joint Radio and Computational Resource Allocation for NOMA-Based Mobile Edge Computing in Heterogeneous Networks	2018										
+8902624	Cloud Edge Trusted Virtualized Infrastructure Manager (VIM) - Security and Trust in OpenStack	2019										
+8885523	Energy-Efficient Collaborative Task Offloading in D2D-assisted Mobile Edge Computing Networks	2019										
+9024649	Optimal Computation Offloading with a Shared MEC Center: A Mean Field Game Approach	2019										
+8886041	Revenue-Maximized Offloading Decision and Fine-Grained Resource Allocation in Edge Network	2019										
+9013853	Learn to Offload in Mobile Edge Computing	2019										
+8760273	Closed-Form Delay-Optimal Computation Offloading in Mobile Edge Computing Systems	2019										
+8682862	Learning-Based Pricing for Privacy-Preserving Job Offloading in Mobile Edge Computing	2019										
+8486406	A Computing Platform for Video Crowdprocessing Using Deep Learning	2018										
+9005435	Joint Communication and Computation Optimization for Wireless Powered Mobile Edge Computing with D2D Offloading	2019										
+8886130	Joint Optimization on Computation Offloading and Resource Allocation in Mobile Edge Computing	2019										
+8885747	Mobility-aware Task Offloading and Migration Schemes in SCNs with Mobile Edge Computing	2019										
+9014035	Energy-Efficient Mobile-Edge Computation Offloading over Multiple Fading Blocks	2019										
+8647845	Context-Aware Task Offloading for Multi-Access Edge Computing: Matching with Externalities	2018										
+8314669	Outlet: Outsourcing Wearable Computing to the Ambient Mobile Computing Edge	2018										
+8904347	Energy Efficient Task Offloading in NOMA-Based Mobile Edge Computing System	2019										
+8301769	A user-based K-means clustering offloading algorithm for heterogeneous network	2018										
+7472331	Joint offloading decision and resource allocation for mobile cloud with computing access point	2016										
+8641192	Distributed Resource Allocation and Computation Offloading Scheme for Cognitive Mobile Edge Computing Networks with NOMA	2018										
+8932656	Peace: Privacy-Preserving and Cost-Efficient Task Offloading for Mobile-Edge Computing	2020										
+8761377	Power-Delay Trade-off for Heterogenous Cloud Enabled Multi-UAV Systems	2019										
+7763283	Local breakout of mobile access network traffic by mobile edge computing	2016										
+8985343	Intelligent Offloading Strategy Design for Relaying Mobile Edge Computing Networks	2020										
+9012270	Behaviour Comprehension and Prediction Using Time Series Analysis of Data for Code Offloading in Mobile Cloud Computing	2018										
+8990100	Load Optimization Based on Edge Collaboration in Software Defined Ultra-Dense Networks	2020										
+7437025	Energy-efficient dynamic traffic offloading and reconfiguration of networked data centers for big data stream mobile computing: review, challenges, and a case study	2016	Sim									
+8985256	Incentive UAV-Enabled Mobile Edge Computing Based on Microwave Power Transmission	2020										
+8647792	Joint Radio and Computation Resource Management for Low Latency Mobile Edge Computing	2018										
+9014314	Joint Beamforming and Computation Offloading for Multi-User Mobile-Edge Computing	2019										
+9014081	On the Optimality of Task Offloading in Mobile Edge Computing Environments	2019										
+8896954	Device-Enhanced MEC: Multi-Access Edge Computing (MEC) Aided by End Device Computation and Caching: A Survey	2019	Sim									
+9013498	Learning-Based Offloading of Tasks with Diverse Delay Sensitivities for Mobile Edge Computing	2019										
+8555711	Delay Analysis and Computing Offloading of URLLC in Mobile Edge Computing Systems	2018										
+9014114	A Microservice Store for Efficient Edge Offloading	2019										
+8480192	Where to Process: Deadline-aware Online Resource Auction in Mobile Edge Computing	2018										
+8761453	Stochastic Programming Method for Offloading in Mobile Edge Computing Based Internet of Vehicle	2019										
+9013178	MDP-Based Scheduling Design for Mobile-Edge Computing Systems with Random User Arrival	2019										
+9013243	A Mobile Cloud Computing Testbed Based on Lightweight Virtualization	2019										
+9024424	Collaborative Computation Offloading in Wireless Powered Mobile-Edge Computing Systems	2019										
+8908784	Adaptive Task Offloading Auction for Industrial CPS in Mobile Edge Computing	2019										
+8846325	Efficient Energy Joint Computation Offloading and Resource Optimization in Multi-Access MEC Systems	2019										
+8675166	HybridIoT: Integration of Hierarchical Multiple Access and Computation Offloading for IoT-Based Smart Cities	2019										
+8491214	Optimal Offloading Strategy and Resource Allocation in SWIPT-based Mobile-Edge Computing Networks	2018										
+8936356	Vehicular Task Offloading via Heat-Aware MEC Cooperation Using Game-Theoretic Method	2020										
+7562076	Dynamic resource orchestration for multi-task application in heterogeneous mobile cloud computing	2016										
+8944163	Energy-Efficient Resource Allocation for Latency-Sensitive Mobile Edge Computing	2020										
+8815434	Time-Slotted Resource Allocation in a Two-User Computationally-Constrained Offloading System	2019										
+8580841	Joint Optimization of Computation Offloading and UL/DL Resource Allocation in MEC Systems	2018										
+7565185	Big data caching for networking: moving from cloud to edge	2016										
+8908666	UAV-Enhanced Intelligent Offloading for Internet of Things at the Edge	2020										
+8333459	Context-aware reinforcement learning-based mobile cloud computing for telemonitoring	2018										
+8626532	Joint Optimization of Computational Cost and Devices Energy for Task Offloading in Multi-Tier Edge-Clouds	2019										
+8363064	An Energy Sensitive Computation Offloading Strategy in Cloud Robotic Network Based on GA	2019										
+7956189	Stochastic Joint Radio and Computational Resource Management for Multi-User Mobile-Edge Computing Systems	2017										
+8314708	ULOOF: A User Level Online Offloading Framework for Mobile Edge Computing	2018										
+9014139	Delay - Energy Efficient Computation Offloading and Resources Allocation in Heterogeneous Network	2019										
+8253985	Privacy-Aware Offloading in Mobile-Edge Computing	2017										
+7500395	Adaptive sequential offloading game for multi-cell Mobile Edge Computing	2016										
+8653370	Energy-Efficient Fair Cooperation Fog Computing in Mobile Edge Networks for Smart City	2019										
+7567332	Computation offloading frameworks in mobile cloud computing : a survey	2016	Sim									
+8640093	Offloading Computations to Mobile Devices and Cloudlets via an Upgraded NFC Communication Protocol	2020										
+9013982	Deep Reinforcement Learning-Based Computation Offloading in Vehicular Edge Computing	2019										
+8469384	Sailfish: A Cooperative Data Retrieving Scheme in the Distributed Cloud for Interactive Applications	2018										
+8423002	Mobile Edge Computing for Task Offloading in Small-Cell Networks via Belief Propagation	2018										
+8651276	Compound Model of Task Arrivals and Load-Aware Offloading for Vehicular Mobile Edge Computing Networks	2019										
+8990216	Multi-objective Optimization Research and Applied in Cloud Computing	2019										
+8908803	An Adaptive Computation Offloading Mechanism for Mobile Health Applications	2020										
+8990775	OPPLOAD: Offloading Computational Workflows in Opportunistic Networks	2019										
+7919110	Radio Environment Aware Computation Offloading with Multiple Mobile Edge Computing Servers	2017										
+8410767	Double Auction-Based Resource Allocation for Mobile Edge Computing in Industrial Internet of Things	2018										
+8886389	Computation Efficiency Maximization in OFDMA-Based Mobile Edge Computing Networks	2020										
+9024374	Sequential Task Scheduling for Mobile Edge Computing Using Genetic Algorithm	2019										
+8753694	Task Offloading in Vehicular Mobile Edge Computing: A Matching-Theoretic Framework	2019										
+8663993	Intelligent Offloading in Multi-Access Edge Computing: A State-of-the-Art Review and Framework	2019										
+7980179	On Efficient Offloading Control in Cloud Radio Access Network with Mobile Edge Computing	2017										
+9027574	An Optimal Resource Allocation Mechanism in Vehicular MEC Systems	2019										
+8081436	Distributed computational load balancing for real-time applications	2017										
+8931562	Mobile-Edge-Computing-Based Hierarchical Machine Learning Tasks Distribution for IIoT	2020										
+7841587	An Efficient Social-Aware Computation Offloading Algorithm in Cloudlet System	2016										
+8915792	Optimized 3D Deployment of UAV-Mounted Cloudlets to Support Latency-Sensitive Services in IoT Networks	2019										
+8869394	Cognitive Edge for Factory: a Case Study on Campus Networks enabling Smart Intralogistics	2019										
+7776573	Smart Probabilistic Fingerprinting for Indoor Localization over Fog Computing Platforms	2016										
+8665101	Design of a CloudROS enabled Mobile Robot	2018										
+8761212	Computation Offloading in Multi-Access Edge Computing Networks: A Multi-Task Learning Approach	2019										
+7870694	Joint Computation Offloading and Interference Management in Wireless Cellular Networks with Mobile Edge Computing	2017										
+8355198	A unified architecture for integrating energy harvesting IoT devices with the Mobile Edge Cloud	2018										
+8868077	A Trust-Aware Task Offloading Framework in Mobile Edge Computing	2019										
+9024494	Admission Control Based Distributed Multiuser Computation Offloading for Edge Computing	2019										
+8761143	Optimal Resource Allocation for Wireless Powered Mobile Edge Computing with Dynamic Task Arrivals	2019										
+7510999	Joint offloading decision and resource allocation for multi-user multi-task mobile cloud	2016										
+7501894	Minimizing Context Migration in Mobile Code Offload	2017										
+8526845	Transparent Edge Gateway for Mobile Networks	2018										
+8543183	Energy-Efficient NOMA-Based Mobile Edge Computing Offloading	2019										
+7991125	Enhancing image security and privacy in cloud system using steganography	2017										
+7938331	Energy-Saving Offloading by Jointly Allocating Radio and Computational Resources for Mobile Edge Computing	2017										
+8417606	Latency-Optimal Task Offloading for Mobile-Edge Computing System in 5G Heterogeneous Networks	2018										
+7511054	A cluster based computation offloading technique for mobile cloud computing in smart cities	2016										
+8276788	Saving Energy in Mobile Devices Using Mobile Device Cloudlet in Mobile Edge Computing for 5G	2017										
+7905885	Outage bottleneck for reliable mobile computation offloading: Transmission or computation?	2016										
+7974539	A computing offloading algorithm for F-RAN with limited capacity fronthaul	2016										
+8308161	Using a multi criteria decision making model for managing computational resources at mobile ad-hoc cloud computing environment	2017										
+7322203	Ad-Hoc Cloudlet Based Cooperative Cloud Gaming	2018										
+8066354	Dual-Side Optimization for Cost-Delay Tradeoff in Mobile Edge Computing	2018										
+8647301	Performance Guaranteed Partial Offloading for Mobile Edge Computing	2018										
+9022927	HIQCO: A Hierarchical Optimization Method for Computation Offloading and Resource Optimization in Multi-Cell Mobile-Edge Computing Systems	2020										
+8372737	Task offloading and resource allocation in mobile-edge computing system	2018										
+7944874	Cloudlet-Assisted Heuristic Offloading for Mobile Interactive Applications	2017										
+7997070	Data offloading in mobile cloud computing: A Markov Decision Process approach	2017										
+8648075	Exploiting Computation Replication in Multi-User Multi-Server Mobile Edge Computing Networks	2018										
+9013927	Integrated Task Caching, Computation Offloading and Resource Allocation for Mobile Edge Computing	2019										
+8555695	An Efficient Offloading Algorithm Based on Support Vector Machine for Mobile Edge Computing in Vehicular Networks	2018										
+7986435	A transparent code offloading technique for Android devices	2017										
+7881904	Mobile Cloud Computing: A multisite computation offloading	2016										
+7816970	Efficient Multisite Computation Offloading for Mobile Cloud Computing	2016										
+8737559	Joint Offloading Decision and Resource Allocation with Uncertain Task Computing Requirement	2019										
+8999167	A Deep Learning Approach to Distributed Anomaly Detection for Edge Computing	2019										
+8422777	Joint Task Assignment and Wireless Resource Allocation for Cooperative Mobile-Edge Computing	2018										
+7577040	Offloading personal security applications to the Network Edge: A mobile user case scenario	2016										
+8683499	Dynamic Joint Resource Allocation and User Assignment in Multi-access Edge Computing	2019										
+8648109	Multi-Objective Resource Optimization for Hierarchical Mobile Edge Computing	2018										
+8845099	Addressing Bitrate and Latency Requirements for Connected and Autonomous Vehicles	2019										
+9016591	Fast and Reliable Offloading via Deep Reinforcement Learning for Mobile Edge Video Computing	2020										
+8924727	Efficient Resource Allocation for Relay-Assisted Computation Offloading in Mobile-Edge Computing	2020										
+8580887	Task Execution Cost Minimization-based Joint Computation Offloading and Resource Allocation for Cellular D2D Systems	2018										
+8897219	Security Embedded Offloading Requirements for IoT-Fog Paradigm	2019										
+8710282	Joint Optimization of UAV Position, Time Slot Allocation, and Computation Task Partition in Multiuser Aerial Mobile-Edge Computing Systems	2019										
+8876867	An Online Incentive Mechanism for Collaborative Task Offloading in Mobile Edge Computing	2020										
+7913013	Q-MAC: QoS and mobility aware optimal resource allocation for dynamic application offloading in mobile cloud computing	2017										
+8917559	Mobility-Aware Computation Offloading in MEC-Based Vehicular Wireless Networks	2020										
+9014163	Multi-Access Edge Computing-Assisted D2D Streaming for Proximity-Based Social Networking	2019										
+8116370	Virtual resource allocation for heterogeneous services in full duplex-enabled small cell networks with cache and MEC	2017										
+9013527	QoS-Aware Fog Computing Resource Allocation Using Feasibility-Finding Benders Decomposition	2019										
+9013893	Optimal Task Partition and Power Allocation for Mobile Edge Computing with NOMA	2019										
+8226751	Data Offloading in Mobile Edge Computing: A Coalition and Pricing Based Approach	2018										
+9013629	Power Efficient User Cooperative Computation to Maximize Completed Tasks in MEC Networks	2019										
+7972714	Cloud-Guided QoS and Energy Management for Mobile Interactive Web Applications	2017										
+8740986	Mobile Edge Aided Data Dissemination for Wireless Healthcare Systems	2019										
+8450448	Task Proactive Caching Based Computation Offloading and Resource Allocation in Mobile-Edge Computing Systems	2018										
+8927985	Computation Offloading and Resource Allocation in Mobile Edge Computing via Reinforcement Learning	2019										
+8116581	Performance Evaluation of Cryptography on Middleware-Based Computational Offloading	2017										
+8647856	Offloading Energy Efficiency with Delay Constraint for Cooperative Mobile Edge Computing Networks	2018										
+7553459	Energy-Efficient Offloading for Mobile Edge Computing in 5G Heterogeneous Networks	2016										
+9013826	Delay-Efficient Offloading for NOMA-MEC with Asynchronous Uploading Completion Awareness	2019										
+8732365	Mixed-Timescale Joint Computational Offloading and Wireless Resource Allocation Strategy in Energy Harvesting Multi-MEC Server Systems	2019										
+8762042	I #x002F;O Interference Aware Multiuser Computation Offloading for Virtualized Edge Computing	2019										
+8999476	Data collection and node counting by opportunistic communication	2019										
+8422114	CTOM: Collaborative Task Offloading Mechanism for Mobile Cloudlet Networks	2018										
+8958700	A MEC-based Distributed Offloading Model for Ubiquitous and Time-constraint Offloading	2019										
+8555725	Joint Heterogeneous Tasks Offloading and Resource Allocation in Mobile Edge Computing Systems	2018										
+8931659	Task Offloading in Vehicular Edge Computing Networks: A Load-Balancing Solution	2020										
+8764392	Task Caching, Offloading, and Resource Allocation in D2D-Aided Fog Computing Networks	2019										
+8422743	Optimal Auction for Edge Computing Resource Management in Mobile Blockchain Networks: A Deep Learning Approach	2018										
+8345749	Selfish Decentralized Computation Offloading for Mobile Cloud Computing in Dense Wireless Networks	2019										
+7600978	A Stackelberg game based task offloading mechanism for ad-hoc based mobile cloud computing	2016										
+7760102	Task allocation for mobile cloud computing: State-of-the-art and open challenges	2016										
+7951770	Service offloading of computationally intensive processes using Hadoop image processing interface in private cloud	2017										
+8549539	Demystifying Myths of MEC: Rethinking and Exploring Benefits of Multi-Access/Mobile Edge Computing	2018										
+8543056	A greedy algorithm for task offloading in mobile edge computing system	2018										
+7486992	On the Serviceability of Mobile Vehicular Cloudlets in a Large-Scale Urban Environment	2016										
+8252700	Multi-Objective Decision-Making for Mobile Cloud Offloading: A Survey	2018	Sim									
+8279411	Offloading Schemes in Mobile Edge Computing for Ultra-Reliable Low Latency Communications	2018										
+7552036	Cyber Foraging and Offloading Framework for Internet of Things	2016										
+8422877	Energy-Efficient Joint Offloading and Wireless Resource Allocation Strategy in Multi-MEC Server Systems	2018										

@@ -1,0 +1,2266 @@
+Bibtex Key	Title	Year	URL	Descartado? (S/N) Marcar critério no parsifal	Qual o método de avaliação utilizado (simulação, modelagem analitica, aferição)?	A aplicação está disponível? Open source? Link	Quais as aplicações utilizadas nos testes realizados? Usou alguma benchmarking tool?	Quais as categorias de aplicações (ImageTools, Math, Streaming)?	Usou algum testbed? Real ou virtual?	Quais e quantos dispositivos foram utilizados?	Qual arquitetura utilizada (Single ou multi-cloudlet, Nuvem, D2D, Híbrido, Edge)?	Quais as métrica de avaliação foram adotadas (tempo, energia)?
+Xiong2019538	Task Offloading in UAV-Aided Edge Computing: Bit Allocation and Trajectory Optimization	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062936072&doi=10.1109%2fLCOMM.2019.2891662&partnerID=40&md5=f0a1e496940486c49d2a866101d957e2	Sim								
+Kim20191200	Task Popularity-Based Energy Minimized Computation Offloading for Fog Computing Wireless Networks	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071152498&doi=10.1109%2fLWC.2019.2911521&partnerID=40&md5=8e98832fe61e8aff229141d0faaec10f	Sim								
+Fan2019162	Churn-resilient task scheduling in a tiered IoT infrastructure	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072080776&doi=10.23919%2fJCC.2019.08.014&partnerID=40&md5=6d6e4f847225e48909e08ad8369520bb	Não (Não usa apps)	Simulação	Não	-	-	Não	1 datacenter, 1 cloudlet, 80 IoT devices	Edge	Total profit, Guarantee rate
+Yao2019865	Energy efficient cooperative edge computing with multi-source multi-relay devices	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073519660&doi=10.1109%2fHPCC%2fSmartCity%2fDSS.2019.00126&partnerID=40&md5=4aee356bdae9cd6ec626bc928f71e819	Não (Não usa apps)	Simulação	Não	-	-	Não	20 mobile devices, 10 relay devices, 1 edge server	Edge	Total energy consumption
+Yao2019417	Deep reinforcement learning based offloading scheme for mobile edge computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075634568&doi=10.1109%2fSmartIoT.2019.00074&partnerID=40&md5=6accfd6d4a385d5b40a98c68e5db4196	Sim								
+Bao2019535	A two-sided matching approach for distributed edge computation offloading	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074092179&doi=10.1109%2fICCChina.2019.8855906&partnerID=40&md5=6e80d8b59e42697bfaa5578241f9a968	Não (Não usa apps)	Simulação	Não	-	-	Não	3 APs, 30 mobile devices	Edge	Average Latency
+Zhang2019234	Mining task offloading in mobile edge computing empowered blockchain	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075633597&doi=10.1109%2fSmartIoT.2019.00043&partnerID=40&md5=63ac9a8faa5cd5f47502f63fa1963720	Não	Simulação	Não		Blockchain	Não	20 mobile devices, 5 edge servers	Edge	Total utility of the mobile devices
+Tian2019984	Reinforcement learning based matching for computation offloading in D2D communications	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074064755&doi=10.1109%2fICCChina.2019.8855817&partnerID=40&md5=0834341494c94be2523234ef1877be2b	Sim								
+Park2019	Joint offloading and streaming in mobile edges: A deep reinforcement learning approach	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073497304&doi=10.1109%2fVTS-APWCS.2019.8851667&partnerID=40&md5=35258647b68430e0f8948430f6481439	Sim								
+Manukumar20191625	A Novel Multi-Objective Efficient Offloading Decision Framework in Cloud Computing for Mobile Computing Applications	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064484714&doi=10.1007%2fs11277-019-06348-4&partnerID=40&md5=8e50ebc0f04ae6951af2aefda71f8324	Não	Aferição	Não	Double a number, Flames puzzle, Word puzzles, Chess game, Image edge detection	Math, ImageTools	Sim, real	4 mobile devices, 60 cloud servers	Cloud	VIrtual machine cost, quality of service
+Shi2019507	An Area-based offloading policy for computing offloading in MEC-assisted wireless mesh network	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074065015&doi=10.1109%2fICCChina.2019.8855931&partnerID=40&md5=ef7ac7ecd5eab625fa92a91ae7887b96	Sim								
+Guo2019863	Multi-factor based dynamic offloading with coalitional game in mobile cloud computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074090735&doi=10.1109%2fICCChina.2019.8855923&partnerID=40&md5=1167b7609014c023fff855110511abbb	Não	Simulação	Não	Face Recognition	ImageTools	Não especifica	1 mobile device, 3 cloudlets	Cloudlet	Energy consumption
+AbdElhalim2019	Distributed Fog-to-Cloud computing system: A minority game approach	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061315679&doi=10.1002%2fcpe.5162&partnerID=40&md5=e54a71adc97c9f5b50d4a79637e12c6a	Sim								
+Zhang20191450	Collaborative Task Offloading with Computation Result Reusing for Mobile Edge Computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074072716&doi=10.1093%2fcomjnl%2fbxz027&partnerID=40&md5=42a13f399e5c06be1aa5a2430418f867	Sim								
+Li2019221	Offloading and system resource allocation optimization in TDMA based wireless powered mobile edge computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069692931&doi=10.1016%2fj.sysarc.2019.07.009&partnerID=40&md5=f85b272ea26b8772e7b8a123c385b1c3	Sim								
+Thananjeyan2019613	Optimum selection of mobile edge computing hosts based on extended balas-geoffrion additive algorithm	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076813974&doi=10.1109%2f5GWF.2019.8911654&partnerID=40&md5=b33888b7228cb2a3ffe3db5d585d206d	Sim								
+Liu2019	Edge assisted real-time object detection for mobile augmented reality	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068215125&doi=10.1145%2f3300061.3300116&partnerID=40&md5=378a5bba9eb60657d4450fe93e93a968	Sim								
+Odun-Ayo2019797	A systematic mapping study of mobile and energy-efficient use of cloud	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071269591&doi=10.24507%2ficicelb.10.09.797&partnerID=40&md5=fd0808e00b31d43e642e9fbed188652e	Sim								
+Lim2019	Energy-efficient computing for wireless powered mobile edge computing systems	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075250323&doi=10.1109%2fVTCFall.2019.8891235&partnerID=40&md5=8acd490ef63034af702aa7214a5531e8	Sim								
+Jiang20193022	Adaptive Scheduling of Stochastic Task Sequence for Energy-Efficient Mobile Cloud Computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071363947&doi=10.1109%2fJSYST.2019.2922436&partnerID=40&md5=fe38a31654e0bbff3cdfdff8301e3374	Sim								
+Su2019	Computation offloading with online matching algorithm in mobile edge computing networks	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075230805&doi=10.1109%2fVTCFall.2019.8891370&partnerID=40&md5=9907263df1b8ebb61c5791a337761754	Sim								
+NoAuthor2019177	Minimizing energy consumption of image data offloading in mobile cloud computing application	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073420961&partnerID=40&md5=3bd44b24d8905ea9c6245c6afc0b917f	Sim								
+Han20196153	Offloading Optimization and Bottleneck Analysis for Mobile Cloud Computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077441014&doi=10.1109%2fTCOMM.2019.2920348&partnerID=40&md5=76b733a75fa78f054761a3a0041372e6	Sim								
+Shang2019199	Computation Offloading Management in Vehicular Edge Network under Imperfect CSI	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078941657&doi=10.1109%2fICICSP48821.2019.8958488&partnerID=40&md5=05c2963eaaeec1827037affceec268ec	Sim								
+Li2019193	Radio and computing resource allocation with energy harvesting devices in mobile edge computing environment	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068514433&doi=10.1016%2fj.comcom.2019.06.001&partnerID=40&md5=ff7a207924ba20afd5f95a0627f3a442	Sim								
+Zhang2019	Mobility management for ultra-dense edge computing: A reinforcement learning approach	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075255396&doi=10.1109%2fVTCFall.2019.8891330&partnerID=40&md5=054aad6db4f9c6b84c3bca2eba6beecc	Sim								
+Lv2019	Joint computation offloading and resource configuration in ultra-dense edge computing networks: A deep reinforcement learning solution	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075247656&doi=10.1109%2fVTCFall.2019.8891384&partnerID=40&md5=10e4d3ed63cc22b9bb71619c2af882e5	Sim								
+Akin2019	SWIPT-based Mobile Edge Computing Systems: A Stochastic Geometry Perspective	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075879172&doi=10.1109%2fPIMRC.2019.8904282&partnerID=40&md5=4f48e531756b9ea188143ba8bab17559	Sim								
+Wang2019339	Computation tasks offloading scheme based on multi-cloudlet collaboration for edge computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076883176&doi=10.1109%2fCBD.2019.00067&partnerID=40&md5=a44d67502de7b97f72d2310eba2b19d7	Sim								
+Huang2019	Fine-grained task offloading for UAV via MEC-enabled networks	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074951356&doi=10.1109%2fPIMRCW.2019.8880836&partnerID=40&md5=aae72bb4941f79e7b8bb20a57452a11c	Sim								
+Long2019	Delay optimized computation offloading and resource allocation for mobile edge computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075229867&doi=10.1109%2fVTCFall.2019.8891166&partnerID=40&md5=5c40ecb119eefd169db5e353bd49e054	Sim								
+Liang20194298	Multiuser Computation Offloading and Downloading for Edge Computing With Virtualization	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072158965&doi=10.1109%2fTWC.2019.2922613&partnerID=40&md5=f2dc0f5210c3d599fb6d812f915c07c3	Sim								
+Chouhan2019	Energy optimal partial computation offloading framework for mobile devices in multi-access edge computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075856162&doi=10.23919%2fSOFTCOM.2019.8903763&partnerID=40&md5=da8c140bf1ea179e7ff4a0109ca21a21	Sim								
+Cheng2019	A delay-aware edge computing and power control scheme in NOMA-enabled cognitive radio networks	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075244985&doi=10.1109%2fVTCFall.2019.8891445&partnerID=40&md5=cc56c1b4591e4daa952289188aef71ad	Sim								
+Singh2019246	Intensive energy aware mobile computational offloading using machine learning strategies	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074353325&doi=10.35940%2fijitee.K1056.09811S219&partnerID=40&md5=9803a3ad4d863b3ba5c84d8bb6f648b1	?????								
+Zhou2019333	Task offloading for social sensing applications in mobile edge computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076926294&doi=10.1109%2fCBD.2019.00066&partnerID=40&md5=a0653570095f06a4a412830abfde16a8	Não (Não usa apps)	Simulação	-	-	-	Sim, virtual	200 edge devices, 20 edge servers	Edge	Average Latency, Cost and Hit Ratio of tasks
+Misra20192978	Auction-Based Optimal Task Offloading in Mobile Cloud Computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071617216&doi=10.1109%2fJSYST.2019.2898903&partnerID=40&md5=ba944629e91d09627034c08be1265315	Não	Simulação/Aferição	Não	App that read integers in a file, sort them, and save the sorted list in another file	Math	Sim, real	2 mobile devices, 2 cloudlets, 1 cloud server	Cloudlet, Cloud	Execution time, Energy consumption, time for offloading
+Rodrigues2019	Hyperparameter study of machine learning solutions for the edge server deployment problem	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075242937&doi=10.1109%2fVTCFall.2019.8891500&partnerID=40&md5=6d052821d8cc7c9bd1c101da532c24a3	Sim								
+Chen2019726	Multi-User Multi-Task Computation Offloading in Green Mobile Edge Cloud Computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045631588&doi=10.1109%2fTSC.2018.2826544&partnerID=40&md5=f33ef8e500e622a65bad6e0aa64d8855	Sim								
+Cañete2019	Energy efficient assignment and deployment of tasks in structurally variable infrastructures	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076034856&doi=10.1145%2f3307630.3342704&partnerID=40&md5=d4c9c5d49465be5bb329c17f14da8f6c	Sim								
+Moussa2019217	Task offloading strategies based on workload balancing in ultra-dense networks	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077203525&doi=10.1145%2f3338840.3355665&partnerID=40&md5=7513af132b0aecc8c60c087cac999402	Sim								
+Gakpo2019189	Moving intelligence of mobile edge computing to maritime network	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077215349&doi=10.114-5%2f3338840.3355647&partnerID=40&md5=3d4c7455518082950f07d10c3e104cab	Sim								
+Liu20194329	A constrained multi-objective computation offloading algorithm in the mobile cloud computing environment	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076251324&doi=10.3837%2ftiis.2019.09.001&partnerID=40&md5=d5afdc06f969a81b0976b2038ebd0dfe	Sim								
+Asheralieva20198753	Hierarchical Game-Theoretic and Reinforcement Learning Framework for Computational Offloading in UAV-Enabled Mobile Edge Computing Networks with Multiple Service Providers	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073447712&doi=10.1109%2fJIOT.2019.2923702&partnerID=40&md5=80d654e20be6dbdc131f85b9a88fd5bc	Sim								
+Shanthi20192589	Secured and dynamic decentralized computational offloading framework for mobile cloud computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073382242&doi=10.35940%2fijitee.K1876.0981119&partnerID=40&md5=830532fb45479bab048190a7675e34ff	Sim								
+Qian20191312	User association and path planning for UAV-Aided mobile edge computing with energy restriction	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073696031&doi=10.1109%2fLWC.2019.2913843&partnerID=40&md5=152bf23509bb01dd2572fc4b86018486	Sim								
+Salmerón-García2019535	Towards a cloud-based automated surveillance system using wireless technologies	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021827190&doi=10.1007%2fs00530-017-0558-5&partnerID=40&md5=4aa3d6a5fca8b88dedfea5cdf56414b6	Sim								
+Dong20194692	Deep Learning for Hybrid 5G Services in Mobile Edge Computing Systems: Learn from a Digital Twin	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077264316&doi=10.1109%2fTWC.2019.2927312&partnerID=40&md5=206d3f4807708da2e518b64cb1f426c7	Sim								
+Chanyour2019	Multi-policy Aware Offloading with Per-task Delay for Mobile Edge Computing Networks	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078159308&doi=10.1109%2fWINCOM47513.2019.8942438&partnerID=40&md5=cf7eca290b14e1656f5b7166067d0fcd	Não (Não usa apps)	Simulação	-	-	-	Sim, virtual	10-100 mobile devices	Edge	Tempo de execução
+Mahmood20191991	Mobile cloud based-framework for sports applications	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062767343&doi=10.1007%2fs11045-019-00639-6&partnerID=40&md5=4051937ee431399af3fe132c73f88526	Não	Aferição	Não	App para identificar jogadores de cricket		Sim, real	1 smartphone, 1 cloudlet, 1 cloud server	Cloud/Cloudlet	Tempo de execução, energia
+Jin2019902	Computation Offloading and Resource Allocation for MEC in C-RAN: A Deep Reinforcement Learning Approach	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078093330&doi=10.1109%2fICCT46805.2019.8947070&partnerID=40&md5=0fa88bc03ab4d138f8374c2e351b2e50	Sim								
+Zhao2019346	Deep learning based mobile data offloading in mobile edge computing systems	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065250877&doi=10.1016%2fj.future.2019.04.039&partnerID=40&md5=1b6b988b00d2df4a03d697c4ae5bc7f4	Sim								
+Gaballo2019	ADELE: An Architecture for Steering Traffic and Computations via Deep Learning in Challenged Edge Networks	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075390359&doi=10.1109%2fCCCS.2019.8888120&partnerID=40&md5=c50f0b7cfcd4423e84def7b0b90bf004	Sim								
+Liu2019	Optimal Offloading Strategy in NOMA-Assisted Mobile Edge Computing	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077767232&doi=10.1109%2fWCSP.2019.8927909&partnerID=40&md5=6cf80eccddd3d81692c8acce21d2f4c2	Sim								
+Huang2019860	Joint Pilot and Data Transmission Power Control and Computing Resource Allocation for the Massive MIMO Based MEC Network	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078135529&doi=10.1109%2fICCT46805.2019.8947172&partnerID=40&md5=69feffb89bec78ed3fa6c07ab2623020	Sim								
+Gao20197864	Dynamic Social-Aware Computation Offloading for Low-Latency Communications in IoT	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073479400&doi=10.1109%2fJIOT.2019.2909299&partnerID=40&md5=6df175312fbc46d0276579e955783dfb	Não (Não usa apps)	Simulação	-	-	-	Não detalha	40 mobile devices	D2D, Cloud, Edge	
+Hu2019	Task Offloading Based on Lyapunov Optimization for MEC-assisted Platooning	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077770995&doi=10.1109%2fWCSP.2019.8928035&partnerID=40&md5=d6bc273b641fc326d926c45877ef2d17	Sim								
+Xie2019	Machine Learning Based Task Scheduling for Wireless Powered Mobile Edge Computing IoT Networks	2019	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077778828&doi=10.1109%2fWCSP.2019.8928109&partnerID=40&md5=cf4c3e171c91d5472476a5bc82e310e6	Sim								
+Lewis201651	A decision model for cyber-foraging systems	2016	https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983296833&doi=10.1109%2fWICSA.2016.38&partnerID=40&md5=8b5fbef86490f83cb481145f784afb12	Sim								
+Cheng2016	Computation offloading in cloud-RAN based mobile cloud computing system	2016	https://www.scopus.com/inward/record.uri?eid=2-s2.0-84981320715&doi=10.1109%2fICC.2016.7511367&partnerID=40&md5=3eeaf033e0605aa031a58b5ed715936c	Sim								
+Gao20181479	Data offloading for deadline-varying tasks in mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060283505&doi=10.1109%2fSmartWorld.2018.00256&partnerID=40&md5=a0fe370be695d4d576fac1abe7f1ea40	Sim								
+Zhao2018671	QoE aware and cell capacity enhanced computation offloading for multi-server mobile edge computing systems with energy harvesting devices	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060308824&doi=10.1109%2fSmartWorld.2018.00133&partnerID=40&md5=ece736e4038895d285a1c26cdf213628	Sim								
+Pan2018977	Fine-grained task-dependency offloading in mobile cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060273202&doi=10.1109%2fSmartWorld.2018.00173&partnerID=40&md5=83c071802ae5e346fc92b52bbb36220e	Sim								
+ShanthiThangam2018547	Data-intensive computation offloading using fog and cloud computing for mobile devices applications	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069229934&doi=10.1109%2fICSSIT.2018.8748812&partnerID=40&md5=cd73c67922c3a8c6dcf1f4fedaa44370	Sim								
+ShaliniLakshmi2018136	LI-RMLO: Loop iteration based runtime method level offloading for mobile applications	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069209412&doi=10.1109%2fICSSIT.2018.8748500&partnerID=40&md5=e1f8071a864aa219e5ef160faa7e4c2a	Sim								
+Li2018705	Joint computation offloading and wireless resource allocation in mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070831376&doi=10.1109%2fCompComm.2018.8780694&partnerID=40&md5=5bbe6b59d300fa065d9dea96a4b76094	Sim								
+Sajnani2018658	Latency aware optimal workload assignment in mobile edge cloud offloading network	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070807913&doi=10.1109%2fCompComm.2018.8780954&partnerID=40&md5=7c7497cea19a10a6570feffe7fffcfe5	Sim								
+Li20181929	Minimum completion time offloading algorithm for mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070827853&doi=10.1109%2fCompComm.2018.8780584&partnerID=40&md5=60ab3c6ca07e9e4e8a336a07c5532160	Sim								
+Dinh20186353	Learning for computation offloading in mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052683091&doi=10.1109%2fTCOMM.2018.2866572&partnerID=40&md5=25ebbc6b3ca9fa52c3c1d4796e7440f3	Não	Simulação	Não	Gzip, pdf2text, z264 CBR encode, html2text	Utilities	Não detalha	17 mobile devices, 10 edge servers	multi-edge	
+Dai201812313	Joint Computation Offloading and User Association in Multi-Task Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055032737&doi=10.1109%2fTVT.2018.2876804&partnerID=40&md5=ecc037fbb0a6e485001507f473e53b48	Não	Simulação	Não	Augumented reality application	 Augumented reality	Não detalha	40 mobile devices	Energy consumption	
+Thananjeyan2018	Energy-Efficient Mobile Edge Hosts for Mobile Edge Computing System	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076813474&doi=10.1109%2fICIAFS.2018.8913354&partnerID=40&md5=c2023b5addec009a733644c41ee9c3ff	Sim								
+Kumar20183693	Demand-Based Computation Offloading Framework for Mobile Devices	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85020740552&doi=10.1109%2fJSYST.2017.2706178&partnerID=40&md5=a32141d3356c881636e8e8ab403220b9	Não	Aferição	Não	Bubble sort application	Math	Sim, real	1 mobile device, 2 VMs	Execution time, energy consumption	
+Zhang2018415	Joint resource allocation scheme based on evolutionary game for mobile edge computing [移动边缘云计算中基于演进博弈的联合资源分配算法]	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062871340&doi=10.3969%2fj.issn.1003-7985.2018.04.001&partnerID=40&md5=3998a63f652a540945d9aa3e08bb15ce	Sim								
+Yang20182762	A distributed computation offloading strategy in small-cell networks integrated with mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056149630&doi=10.1109%2fTNET.2018.2876941&partnerID=40&md5=a7f9f2a03eb192898f5e4f3fbcf86c9d	Não	Simulação	Não	-	-	Não detalha	50 mobile devices, 5 edge servers	Overhead of the system	
+Ding20181875	Delay Minimization for NOMA-MEC Offloading	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055054681&doi=10.1109%2fLSP.2018.2876019&partnerID=40&md5=12d5456c67b04409b9b321a9dc28ddda	Sim								
+Liu20181560	Scalable Traffic Management for Mobile Cloud Services in 5G Networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052691334&doi=10.1109%2fTNSM.2018.2867019&partnerID=40&md5=69e0d169e4b4a2a3dd5ac122025d055d	Sim								
+Zhang2018794	Resource allocation for multi-user MEC system: Machine learning approaches	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078530963&doi=10.1109%2fCSCI46756.2018.00159&partnerID=40&md5=312bcabef185b9166e5392c5ddc1e66c	Sim								
+Wu201812244	Noma-assisted multi-access mobile edge computing: A joint optimization of computation offloading and time allocation	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054690074&doi=10.1109%2fTVT.2018.2875337&partnerID=40&md5=5ef3e950a7bc33933f451b0821a19841	Sim								
+Guo20182651	An efficient computation offloading management scheme in the densely deployed small cell networks with mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055045721&doi=10.1109%2fTNET.2018.2873002&partnerID=40&md5=5fef789c62ff0d912858dc412e0957bd	Sim				 				
+Yu2018722	DMPO: Dynamic mobility-aware partial offloading in mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050608130&doi=10.1016%2fj.future.2018.07.032&partnerID=40&md5=d651661be5205cb0dd66523d8936d397	Não	Simulação	-	-	-	Não detalha	10 users	edge	delay, energy
+Cheny2018	Joint Computation Offloading and Radio Resource Allocations in Wireless Cellular Networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059951737&doi=10.1109%2fWCSP.2018.8555588&partnerID=40&md5=b965f5f17489b8e9caafab7abd9f9b8c	Não	Simulação	-	-	-	Não detalha	10 users, 10 cloudlets	edge	energy consumption
+Akbar2018262	Self-adaptive and self-aware mobile-cloud hybrid robotics	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059981727&doi=10.1109%2fIoTSMS.2018.8554735&partnerID=40&md5=60d8c1043c1257f1c0f37e8b6fcfc819	Sim								
+Liu2018	Computation Offloading Scheme to Improve QoE in Vehicular Networks with Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059953059&doi=10.1109%2fWCSP.2018.8555879&partnerID=40&md5=d7d0c258d82abfedc0fdb00fa26ed97c	Sim								
+Zhou2018	Joint optimization of Offloading and Resource Allocation in Vehicular Networks with Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059965488&doi=10.1109%2fWCSP.2018.8555636&partnerID=40&md5=f2c923e9d8a27911fcbae4933c2d6f69	Sim								
+Zhang2018	Analyzing Hit Probability of Spatial Correlated Caching for Heterogeneous Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059966930&doi=10.1109%2fWCSP.2018.8555944&partnerID=40&md5=2289a84c0be71bdb1102215dc395fe74	Sim								
+Zhang2018	MEC Architectures in 4G and 5G Mobile Networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059945707&doi=10.1109%2fWCSP.2018.8555652&partnerID=40&md5=51e0220fbf3dfbf5fc2356fb818252de	Sim								
+Shan2018248	A Survey on Computation Offloading for Mobile Edge Computing Information	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059742880&doi=10.1109%2fBDS%2fHPSC%2fIDS18.2018.00060&partnerID=40&md5=dc6c345b37fc5bdacb6142a1ecc23a8d	Sim								
+Lu2018	COFRD: A Code Offloading Framework for Rapid Deployment of Android Applications	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060208373&doi=10.1109%2fCloudNet.2018.8549381&partnerID=40&md5=30dd822b50653bc0d4d787cfb6840598	Não	Aferição	Não apresenta o link	OCR, Image Filter, Chess, Queen, Linpack, Sudoku	Image tools, math, game	Sim, virtual	1 Android VM, 1 cloudlet	Single-cloudlet	Execution time, energy consumption
+Balasubramanian2018	Exploring Computing at the Edge: A Multi-Interface System Architecture Enabled Mobile Device Cloud	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060248641&doi=10.1109%2fCloudNet.2018.8549296&partnerID=40&md5=4e155def0f4faf848556956623c712a9	Sim								
+Zhou2018372	Service Deployment for Latency Sensitive Applications in Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058381928&doi=10.1109%2fCBD.2018.00073&partnerID=40&md5=d98845af6f9f005c68866c243e47c52e	Sim								
+Zhao201830	The Virtual Machine Placement Algorithm Based on Equivalent Resource Model in the Offloading Data Center of Mobile Cloud Environment	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058391872&doi=10.1109%2fCBD.2018.00015&partnerID=40&md5=21aa758e03b857eec7ce41131310f5ca	Sim								
+Aliyu2018	Mobile cloud computing: Layered architecture	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058175658&doi=10.1109%2fICT-ISPC.2018.8523997&partnerID=40&md5=82cd4e5931ef46a4809211eff45c83f6	Sim								
+Chen2018292	MARVEL: Enabling mobile augmented reality with low energy and low latency	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061701965&doi=10.1145%2f3274783.3274834&partnerID=40&md5=1b263ac20e6158b7775988a252b194df	Sim								
+Cheng2018246	User-oriented green computation in small cell networks with mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062782962&doi=10.1145%2f3290420.3290456&partnerID=40&md5=e727ced6f324ee2ddca7b115208f6277	Sim								
+Yu201811098	Computation Offloading with Data Caching Enhancement for Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053106248&doi=10.1109%2fTVT.2018.2869144&partnerID=40&md5=14fafe33f0d21cf5ab948ad054886ed3	Sim								
+Lakhan2018	Energy Aware Dynamic Workflow Application Partitioning and Task Scheduling in Heterogeneous Mobile Cloud Network	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070526567&doi=10.1109%2fICCBB.2018.8756442&partnerID=40&md5=74bb430ea2c57bd70004a1c3c19408fe	Sim								
+Liu201811008	Computation offloading and content caching in wireless blockchain networks with mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051757292&doi=10.1109%2fTVT.2018.2866365&partnerID=40&md5=67aa44444d572867c521328a12abd50b	Sim								
+Yu2018	Multi-user optimal offloading: Leveraging mobility and allocating resources in mobile edge cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057536525&doi=10.1109%2fNAS.2018.8515725&partnerID=40&md5=70ead6c0166a0732ab0f8b5d6a601db3	Não (Não usa apps)	Simulação	-	-	-	Não detalha	30 smart mobile devices, 0-20 edge clouds	Edge	Execution time, energy consumption
+Zhang2018	Energy-efficient dynamic task offloading for energy harvesting mobile cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057525238&doi=10.1109%2fNAS.2018.8515736&partnerID=40&md5=565d40b91d15f35cccd4587c5d8e937d	Sim								
+Yu2018	Energy-efficient task offloading and resource scheduling for mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057574058&doi=10.1109%2fNAS.2018.8515731&partnerID=40&md5=75fd043a9c0860bceed567b31747b4a9	Sim								
+Dong2018	Joint optimization of energy and qoe with fairness in cooperative fog computing system	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057528756&doi=10.1109%2fNAS.2018.8515738&partnerID=40&md5=5831c3600fd1378a760f27e4b81820e2	Sim								
+Gao20181000	Joint Computation Offloading and Prioritized Scheduling in Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057395107&doi=10.1109%2fHPCS.2018.00157&partnerID=40&md5=2813257489df1112fec97ca8b14b8df8	Sim								
+Mazouzi2018137	Maximizing mobiles energy saving through tasks optimal offloading placement in two-tier cloud	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058442231&doi=10.1145%2f3242102.3242133&partnerID=40&md5=96e1adfe0c4303229ecc8c597b06a1c1									
+Dong2018	Computation offloading for mobile-edge computing with maximum flow minimum cut	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056835245&doi=10.1145%2f3207677.3277943&partnerID=40&md5=36b036c6d8b390ff49ceb41f0f2577a4									
+Cheng2018	Distributed computation offloading and power allocation for wireless virtualization aided mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056837771&doi=10.1145%2f3207677.3277938&partnerID=40&md5=39883060185961b163404297e8b32863									
+Zhang2018355	Jaguar: Low latency mobile augmented reality with flexible tracking	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056836191&doi=10.1145%2f3240508.3240561&partnerID=40&md5=a1556b2f4546259659edc6e45175aea3									
+Zhang2018829	Demo: Low latency mobile augmented reality with flexible tracking	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056825862&doi=10.1145%2f3241539.3267719&partnerID=40&md5=dc5a028d1b7b171b7e36f622f17a65fe									
+Wu2018	Optimal computational power allocation in multi-access mobile edge computing for blockchain	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055075827&doi=10.3390%2fs18103472&partnerID=40&md5=a18fab8d5f3a7e7e2914652b4ecb9a3d									
+Jeong2018401	Ionn: Incremental offloading of neural network computations from mobile devices to edge servers	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058984756&doi=10.1145%2f3267809.3267828&partnerID=40&md5=031c3490fd7ca47cb7a1f30772e09b6a									
+Ren2018	A low-cost edge server placement strategy in wireless metropolitan area networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060491538&doi=10.1109%2fICCCN.2018.8487438&partnerID=40&md5=66fbc48632de0dc06e3bbc4f6a801a22									
+Zhang2018	Energy management for multi-user mobile-edge computing systems with energy harvesting devices and QoS constraints	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060485420&doi=10.1109%2fICCCN.2018.8487435&partnerID=40&md5=bc5d256798f00cc0aa57ac55d7e93543									
+Ranadheera2018688	Computation offloading and activation of mobile edge computing servers: A minority game	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042846526&doi=10.1109%2fLWC.2018.2810292&partnerID=40&md5=8d969d3922a96d835cc54c3e6f8fe07b									
+Chen20186790	Multi-user multi-task offloading and resource allocation in mobile cloud systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051756103&doi=10.1109%2fTWC.2018.2864559&partnerID=40&md5=47a628036a86f52346b379d466aa26eb									
+Zhang2018438	A load-aware resource allocation and task scheduling for the emerging cloudlet system	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042565909&doi=10.1016%2fj.future.2018.01.053&partnerID=40&md5=821030afdd268185dd2f6e4424c530f4									
+Qi20182133	Cluster-PSO Based Resource Orchestration for Multi-task Applications in Vehicular Cloud	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85033676507&doi=10.1007%2fs11277-017-5046-x&partnerID=40&md5=3ab29bfe3c3a3bef9fa325f9a316a1f1									
+Pan201897	A bandwidth allocation and energy-optimal transmission rate scheduling scheme in multi-services wireless networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051398445&doi=10.1016%2fj.aeue.2018.07.034&partnerID=40&md5=362ac0e50cc356c94962d8bfc2381c2e									
+Zhang20184642	Energy-Delay Tradeoff for Dynamic Offloading in Mobile-Edge Computing System with Energy Harvesting Devices	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047977204&doi=10.1109%2fTII.2018.2843365&partnerID=40&md5=edc1d138ebc17a342b5d6cc22fc5e99d									
+Mora-Gimeno2018	A secure multi-tier mobile edge computing model for data processing offloading based on degree of trust	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053821604&doi=10.3390%2fs18103211&partnerID=40&md5=f8e1e786864b75f0427e25b21d704ced									
+Xing201813	Predictive Edge Computing with Hard Deadlines	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055834871&doi=10.1109%2fLANMAN.2018.8475056&partnerID=40&md5=2dc2dfddaadca624ff7a05df69b2e9d7									
+Rahbari2018	A two-stage technique for quick and low power offloading in IoT	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060011664&doi=10.1145%2f3269961.3269972&partnerID=40&md5=a8e9f0a4ce32794c781996169c5be856									
+Zhu201874	Cooperative computation offloading for UAVs: A joint radio and computing resource allocation approach	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055629831&doi=10.1109%2fEDGE.2018.00017&partnerID=40&md5=f19c50c5bee560bda474229b2079661e									
+Xue2018177	Resource allocation for system throughput maximization based on mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060577416&doi=10.1145%2f3277453.3277491&partnerID=40&md5=e15d3e4c3e80a5f445038998ae49c53e									
+Zhang2018	Energy-efficient online resource management and allocation optimization in multi-user multi-task mobile-edge computing systems with hybrid energy harvesting	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053658468&doi=10.3390%2fs18093140&partnerID=40&md5=b35b564b934785131b0d6486e48c5c28									
+Ti2018373	Joint resource allocation, computation offloading, and path planning for UAV based hierarchical fog-cloud mobile systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057622337&doi=10.1109%2fCCE.2018.8465572&partnerID=40&md5=1d285ddf817e839903312e615e2b4e4b									
+Chen20188769	Efficient Resource Allocation for On-Demand Mobile-Edge Cloud Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048480358&doi=10.1109%2fTVT.2018.2846232&partnerID=40&md5=59e2ccaddf18422c050cd7649c2aab83									
+Kim20181922	An Optimal Pricing Scheme for the Energy-Efficient Mobile Edge Computation Offloading with OFDMA	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048885546&doi=10.1109%2fLCOMM.2018.2849401&partnerID=40&md5=43bcc93b939588a4a4dd44363ed61bb9									
+Wu2018694	Android Unikernel: Gearing mobile code offloading towards edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046684527&doi=10.1016%2fj.future.2018.04.069&partnerID=40&md5=530087a380b7eabd22c52195229c4bf0									
+Sun2018100	Wearable communications in 5g: Challenges and enabling technologies	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048890635&doi=10.1109%2fMVT.2018.2810317&partnerID=40&md5=0992e09f15652c7f2ae13c5f9682f8cf									
+Hasan2018821	Aura: An incentive-driven ad-hoc IoT cloud framework for proximal mobile computation offloading	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85038850533&doi=10.1016%2fj.future.2017.11.024&partnerID=40&md5=e08151bffea23a544f8523920baffb03									
+Tiwary201881	Response time optimization for cloudlets in Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046168877&doi=10.1016%2fj.jpdc.2018.04.004&partnerID=40&md5=8652a5601f7fda6ac85ec26dbdc63ca2									
+Zhou20181927	Computation rate maximization in UAV-Enabled wireless-powered mobile-edge computing systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051623974&doi=10.1109%2fJSAC.2018.2864426&partnerID=40&md5=68dfb07269dc5a246d52e0ca6505dacf									
+Cao2018	Mobile Edge Computing for Cellular-Connected UAV: Computation Offloading and Trajectory Optimization	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053438265&doi=10.1109%2fSPAWC.2018.8445936&partnerID=40&md5=48b1be8d57e241d0d2e13f5cbfb1f1ff									
+Aliobory2018	An Adaptive Offloading Decision Scheme in Two-Class Mobile Edge Computing Systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053544907&doi=10.1109%2fTSP.2018.8441475&partnerID=40&md5=31567eccb0ff2e02d77e86614545f63c									
+Liao2018	Relay-enabled task offloading management for wireless body area networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052148583&doi=10.3390%2fapp8081409&partnerID=40&md5=69d888e408d826d0c4c9b6a371990bc6									
+Pencheva2018	Third Party Initiated WLAN Offloading	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053113478&doi=10.1109%2fELECTRONICA.2018.8439381&partnerID=40&md5=3a8a19337ed31e9ceb323e6bb3bf3ddf									
+Yang201844175	A novel collaborative task offloading scheme for secure and sustainable mobile cloudlet networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051649980&doi=10.1109%2fACCESS.2018.2853634&partnerID=40&md5=543b5050aa61d9198b9d579bce2e4c0a									
+Li2018	New SDN-based architecture for integrated vehicular cloud computing networking	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052383634&doi=10.1109%2fMoWNet.2018.8428935&partnerID=40&md5=42aa520b0b8c204d696a3c65b3fde863									
+Mahmoudi2018	MOCP: An offloading protocol for mobile cloud and IoT virtualization	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052368589&doi=10.1109%2fMoWNet.2018.8428923&partnerID=40&md5=0e3805c158d7c2eb3a7aebef37ccc23f									
+Li201831	Edge intelligence: On-demand deep learning model co-inference with device-edge synergy	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056854955&doi=10.1145%2f3229556.3229562&partnerID=40&md5=76c07b7cd92ecee9709abb52256c8092									
+Rimal2018160	Experimental testbed for edge computing in fiber-wireless broadband access networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051770667&doi=10.1109%2fMCOM.2018.1700793&partnerID=40&md5=da12200c2e74839f91bb8256ece03718									
+Chen20181619	Computation Peer Offloading for Energy-Constrained Mobile Edge Computing in Small-Cell Networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049084094&doi=10.1109%2fTNET.2018.2841758&partnerID=40&md5=35a41ccba80bbf24b8b6493739eb89ba									
+Guo201814	Computation offloading for multi-access mobile edge computing in ultra-dense networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051841314&doi=10.1109%2fMCOM.2018.1701069&partnerID=40&md5=9d8f7bf8c8601f6bf2c094dffcedf867									
+Angin2018380	A self-protecting agents based model for high-performance mobile-cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046736029&doi=10.1016%2fj.cose.2018.04.011&partnerID=40&md5=2341e06d1c6134770b6697d8bc3fcd3e									
+daSilvaPinheiro20184060	Performance prediction for supporting mobile applications’ offloading	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047273253&doi=10.1007%2fs11227-018-2414-6&partnerID=40&md5=69d823ee36b884076bf3130e83d84c68									
+Zhang20182633	Energy-latency tradeoff for energy-aware offloading in mobile edge computing networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85039802999&doi=10.1109%2fJIOT.2017.2786343&partnerID=40&md5=3d855badffdd3bc43ed80e19b13988c1									
+Wang20181	User mobility aware task assignment for Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044262975&doi=10.1016%2fj.future.2018.02.014&partnerID=40&md5=43dac8d247d47be583a65b43a37fd3ac									
+Qiao201848	Collaborative task offloading in vehicular edge multi-access networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051841721&doi=10.1109%2fMCOM.2018.1701130&partnerID=40&md5=deb142673111df2140c79387ade586ff									
+Gu2018	A distributed and context-aware task assignment mechanism for collaborative mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050725388&doi=10.3390%2fs18082423&partnerID=40&md5=c0c7188266bd806b93f817032d24b249									
+Mondal20181564	Computation Offloading in Optical Access Cloudlet Networks: A Game-Theoretic Approach	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048003847&doi=10.1109%2fLCOMM.2018.2843327&partnerID=40&md5=40badb6efdbe9984481755a6dc3686dd									
+Ruan2018	The Re-Expanded Cloud: Distributed Uplink Offloading for Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051419913&doi=10.1109%2fICC.2018.8422771&partnerID=40&md5=363968b89b5088717ec14db693ba8386									
+Wang2018	Cooperative Dynamic Voltage Scaling and Radio Resource Allocation for Energy-Efficient Multiuser Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051431112&doi=10.1109%2fICC.2018.8422629&partnerID=40&md5=ba6f641af6cb26ffc56c6644704d7943									
+Guo2018	Efficient computation offloading for multi-access edge computing in 5G HetNets	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051446284&doi=10.1109%2fICC.2018.8422238&partnerID=40&md5=d3085c7efd79b021662298deaddfb22d									
+Messaoudi2018	Toward a mobile gaming based-computation offloading	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051431690&doi=10.1109%2fICC.2018.8422518&partnerID=40&md5=2f87250a0342eaf47762db5ab7db8683									
+Wang2018	Dynamic computation offloading and resource allocation over mobile edge computing networks with energy harvesting capability	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051422752&doi=10.1109%2fICC.2018.8422096&partnerID=40&md5=e555731a44d10e8530ce2ebcb830d74a									
+Liu2018	A computation offloading algorithm based on game theory for vehicular edge networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051444995&doi=10.1109%2fICC.2018.8422240&partnerID=40&md5=3c2a9045c6ecd20a591d297fe625dc95									
+Du2018	Economical revenue maximization in cache enhanced mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051425646&doi=10.1109%2fICC.2018.8422232&partnerID=40&md5=22489e47fe57436615bc671543d5ce34									
+Bi2018	An ADMM based method for computation rate maximization in wireless powered mobile-edge computing networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051433698&doi=10.1109%2fICC.2018.8422202&partnerID=40&md5=9bed381bf8f536be36a38b0471bbebdd									
+Nguyen2018	Computation offloading in MIMO based mobile edge computing systems under perfect and imperfect CSI estimation	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051421178&doi=10.1109%2fICC.2018.8422274&partnerID=40&md5=59d5583cd6b8708a7d2723dd4c8abaf8									
+Wang2018	A smart service rebuilding scheme across cloudlets via mobile AR frame feature mapping	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051432054&doi=10.1109%2fICC.2018.8422226&partnerID=40&md5=b9a823d8a24ed45b5e7a6e746d94abe7									
+Hu2018	Power minimization for cooperative wireless powered mobile edge computing systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051418454&doi=10.1109%2fICC.2018.8422459&partnerID=40&md5=bb695973779a6f75ed27bc746711a416									
+Parwez2018	Resource Allocation in Adaptive Virtualized Wireless Networks with Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051439463&doi=10.1109%2fICC.2018.8422630&partnerID=40&md5=35e74f98699094555a53a5336b759f99									
+Nasrin2018	SharedMEC: Sharing clouds to support user mobility in mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051426347&doi=10.1109%2fICC.2018.8422241&partnerID=40&md5=2aca44382856dd2174d269300712a2f9									
+Wang20181	MOT: A compatible transport mechanism of mobile edge computing and conventional traffic	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050983645&doi=10.1109%2fVTCSpring.2018.8417860&partnerID=40&md5=66c4cd21251316d02e365e2a565f2a16									
+He20181	Delay-Aware Energy Efficient Computation Offloading for Energy Harvesting Enabled Fog Radio Access Networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050965962&doi=10.1109%2fVTCSpring.2018.8417646&partnerID=40&md5=eca8a82940ba74ff54bcf1f028dbf9a1									
+Zhang20181	Coalition and Pricing Based Data Offloading in Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050964177&doi=10.1109%2fVTCSpring.2018.8417603&partnerID=40&md5=b86b3e5b06ce6ca0c1488fb8c9c253e0									
+Sun20181	Computation Offloading with Virtual Resources Management in Mobile Edge Networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050963677&doi=10.1109%2fVTCSpring.2018.8417681&partnerID=40&md5=8e3ceed4344caf460133b30dbaca1fd8									
+Bozorgchenani20181	A control and data plane split approach for partial offloading in mobile fog networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049172499&doi=10.1109%2fWCNC.2018.8377170&partnerID=40&md5=89d1b87407e0be3a4caee11cbd3b0170									
+Li20181	Deep reinforcement learning based computation offloading and resource allocation for MEC	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049160479&doi=10.1109%2fWCNC.2018.8377343&partnerID=40&md5=356bdeecaadbf60f8717177fff8c3c5d									
+Liu2018420	Price-Based Distributed Offloading for Mobile-Edge Computing with Computation Capacity Constraints	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037583153&doi=10.1109%2fLWC.2017.2780128&partnerID=40&md5=2bdf861089a13482352a993863a9c10c									
+You20184104	Exploiting Non-Causal CPU-State Information for Energy-Efficient Mobile Cooperative Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048588664&doi=10.1109%2fTWC.2018.2820077&partnerID=40&md5=ba4323352dd6f2314173a4a3db82a6f8									
+Zhang201845	An energy-efficient algorithm for multi-site application partitioning in MCC	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044142160&doi=10.1016%2fj.suscom.2018.02.008&partnerID=40&md5=7dff3d11cf26236039175496558c577f									
+Liu20181869	Socially aware dynamic computation offloading scheme for fog computing system with energy harvesting devices	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044051416&doi=10.1109%2fJIOT.2018.2816682&partnerID=40&md5=72b30190f0172fbe6559892d95a9a03e									
+Bi20184177	Computation Rate Maximization for Wireless Powered Mobile-Edge Computing with Binary Computation Offloading	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045220072&doi=10.1109%2fTWC.2018.2821664&partnerID=40&md5=95ff2c22b08a762ca59952ae7ef9c3d3									
+Eshratifar2018111	Energy and performance efficient computation offloading for deep neural networks in a mobile cloud computing environment	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049487024&doi=10.1145%2f3194554.3194565&partnerID=40&md5=7a1e81c4132b7cd29e7fc9e66a2585aa									
+Luo201866	Online algorithm for secure task offloading in dynamic networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048362842&doi=10.1109%2fISPA%2fIUCC.2017.00019&partnerID=40&md5=19711f18dabd65a102cfc2219a0bec23									
+Cao2018	Joint computation and communication cooperation for mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048349610&doi=10.23919%2fWIOPT.2018.8362865&partnerID=40&md5=2a633a759a3ce98b01bf64a8612590af									
+Badri2018198	A sample average approximation-based parallel algorithm for application placement in edge computing systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048336157&doi=10.1109%2fIC2E.2018.00044&partnerID=40&md5=f20059f3bb309b69fae79bd94aef2ebf									
+Guo20184514	Collaborative computation offloading for multiaccess edge computing over fiber-wireless networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041212331&doi=10.1109%2fTVT.2018.2790421&partnerID=40&md5=3e21feb2e2efaa82cfbf2cdc2df1ecb7									
+Meng2018462	Joint optimization of wireless bandwidth and computing resource in cloudlet-based mobile cloud computing environment	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013996938&doi=10.1007%2fs12083-017-0544-x&partnerID=40&md5=36e24731d3c3da94669c272091408287									
+Wang2018397	Accelerating task completion in mobile offloading systems through adaptive restart	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-84966697351&doi=10.1007%2fs10270-016-0531-3&partnerID=40&md5=a590bc768e4fcd1d927d914e45cd0d3d									
+Tseng2018398	Application-oriented offloading in heterogeneous networks for mobile cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85011284374&doi=10.1080%2f17517575.2017.1287432&partnerID=40&md5=173e7752ef24b3fd39c19332fde528ca									
+Khanna20181	Adaptive mobile computation offloading for data stream applications	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049748065&doi=10.1109%2fICACCAF.2017.8344682&partnerID=40&md5=f468c0b49df0b20f3573cea92061e3ab									
+Yoo2018869	Leveraging multicores for mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047018378&doi=10.1109%2fICOIN.2018.8343246&partnerID=40&md5=4cf6df22eee2c7366e6c63f9bc8e5e06									
+Singh201849	Optimize cloud computations using edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047432537&doi=10.1109%2fBID.2017.8336572&partnerID=40&md5=c02aee7ea6c7b6e6f3d549de177220d4									
+Sarvabhatla201869	A network aware energy efficient offloading algorithm for mobile cloud computing over 5g network	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049759843&doi=10.1109%2fCCEM.2017.17&partnerID=40&md5=aef3488b60d8cb3ed09862f4b066b7ff									
+Shuja2018	SIMDOM: A framework for SIMD instruction translation and offloading in heterogeneous mobile architectures	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016402296&doi=10.1002%2fett.3174&partnerID=40&md5=986c68698f1e146c9221b4b9a18a9677									
+Orsini2018	CloudAware: Empowering context-aware self-adaptation for mobile applications	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045095451&doi=10.1002%2fett.3210&partnerID=40&md5=d0791fcf9b9e89fbd462d3d50886a36f									
+Hu20182375	Wireless powered cooperation-assisted mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040931159&doi=10.1109%2fTWC.2018.2794345&partnerID=40&md5=b937bccad13279102babe7398a33084b									
+Kuang2018166	A quick-response framework for multi-user computation offloading in mobile cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032991341&doi=10.1016%2fj.future.2017.10.034&partnerID=40&md5=23ec7f77590feaf1dfd2ed2e6d37246b									
+Du20181594	Computation Offloading and Resource Allocation in Mixed Fog/Cloud Computing Systems with Min-Max Fairness Guarantee	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040334516&doi=10.1109%2fTCOMM.2017.2787700&partnerID=40&md5=54bebccb6bb911be267909cfb7ae64fd									
+Jin20181010	Energy-efficient resource management in mobile cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044740163&doi=10.1587%2ftranscom.2017EBP3177&partnerID=40&md5=a6c4c329a7c5ae21bbd2fc3455b063f2									
+Meng20184	A secure and cost-efficient offloading policy for Mobile Cloud Computing against timing attacks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042862710&doi=10.1016%2fj.pmcj.2018.01.007&partnerID=40&md5=45a2a6a4813bcc78e187f19081508ac0									
+Luo2018581	Energy-efficient autonomic offloading in mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048134191&doi=10.1109%2fDASC-PICom-DataCom-CyberSciTec.2017.104&partnerID=40&md5=e2d164c0adfd040662c7e9a6b1d060c1									
+Huang201817741	V2V Data Offloading for Cellular Network Based on the Software Defined Network (SDN) Inside Mobile Edge Computing (MEC) Architecture	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044740235&doi=10.1109%2fACCESS.2018.2820679&partnerID=40&md5=bc9b0702e189a05d91c8fde0b85559fd									
+Kiss20181	Deployment of IoT applications on 5G edge	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050497266&doi=10.1109%2fFIOT.2018.8325595&partnerID=40&md5=f4e44002b75338abb35089ba4356a411									
+Zhang201819324	Joint Computation Offloading and Resource Allocation Optimization in Heterogeneous Networks with Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044371574&doi=10.1109%2fACCESS.2018.2819690&partnerID=40&md5=9222673d6f13de670d307c1f22d78e2c									
+Kalpana201873	A profile guided, analysis for energy-efficient computational offloading for mobile cloud computing environment	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047154129&doi=10.1109%2fCESYS.2017.8321191&partnerID=40&md5=068b51bd25f205132bf11bd8638f8ee9									
+Ko201818920	Spatial and Temporal Computation Offloading Decision Algorithm in Edge Cloud-Enabled Heterogeneous Networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044260673&doi=10.1109%2fACCESS.2018.2818111&partnerID=40&md5=99444c09b3ef98805162f97418fa82ee									
+Doriya2018598	Development of a cloud-based RTAB-map service for robots	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050613118&doi=10.1109%2fRCAR.2017.8311928&partnerID=40&md5=dd6f60cdb2f4c5e8383afaf44e3bf6b2									
+Hao201811365	Energy Efficient Task Caching and Offloading for Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042860608&doi=10.1109%2fACCESS.2018.2805798&partnerID=40&md5=49dbeaea6eff15e081e8f315e6b1a7c0									
+Hou2018140	A Continuous-Time Markov decision process-based resource allocation scheme in vehicular cloud for mobile video services	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032793530&doi=10.1016%2fj.comcom.2017.10.011&partnerID=40&md5=cba6dac2e01e22d3e7619457ff7cf9fd									
+Jeong20182049	Mobile Edge Computing via a UAV-Mounted Cloudlet: Optimization of Bit Allocation and Path Planning	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042516762&doi=10.1109%2fTVT.2017.2706308&partnerID=40&md5=15f43de03391b1bb799c19400d98af6d									
+Wang2018735	Computation rate maximization for wireless powered mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050536571&doi=10.23919%2fAPCC.2017.8304010&partnerID=40&md5=7bbf496adda7a98e2753e8e4ca7ec064									
+Li20181	Joint subcarrier and power allocation for OFDMA based mobile edge computing system	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045280310&doi=10.1109%2fPIMRC.2017.8292207&partnerID=40&md5=58e9261e84003784231e823c9753c9de									
+Yu20181	Computation offloading for mobile edge computing: A deep learning approach	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045273064&doi=10.1109%2fPIMRC.2017.8292514&partnerID=40&md5=3378e12c00da12a403ad544698cbe98f									
+Sun2018	An Efficient Offloading Scheme for MEC System Considering Delay and Energy Consumption	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042885984&doi=10.1088%2f1742-6596%2f960%2f1%2f012002&partnerID=40&md5=f46f0542e3ac33405273d9b77e752d71									
+Guan20181	Joint optimization for computation offloading and resource allocation in Internet of Things	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045239455&doi=10.1109%2fVTCFall.2017.8287972&partnerID=40&md5=cc79d0d071056fcfbdce43cfe8cd068e									
+Yao20181	Load balancing oriented computation offloading in mobile cloudlet	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045282414&doi=10.1109%2fVTCFall.2017.8288336&partnerID=40&md5=0dc594f5f86bad9e97106aecb459f824									
+Shi2018164	MAGA: A Mobility-Aware Computation Offloading Decision for Distributed Mobile Cloud Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85035815536&doi=10.1109%2fJIOT.2017.2776252&partnerID=40&md5=3400654b25523db2fcbaf198bab0c802									
+Chourasiya20189	Computational offloading in android devices using cloud computing capabilities	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045023489&doi=10.15866%2firecap.v8i1.13349&partnerID=40&md5=ae7082bd605e255dd4da60be9e3d260e									
+Liu2018283	Multiobjective Optimization for Computation Offloading in Fog Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85038366106&doi=10.1109%2fJIOT.2017.2780236&partnerID=40&md5=605cb33fa35e39deb25888c36a3361d1									
+Midya201858	Multi-objective optimization technique for resource allocation and task scheduling in vehicular cloud architecture: A hybrid adaptive nature inspired approach	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037814974&doi=10.1016%2fj.jnca.2017.11.016&partnerID=40&md5=29febfae0cbe19e4fb115f548633bebb									
+Guo20181	Decentralized Computation Offloading in Mobile Edge Computing Empowered Small-Cell Networks	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050469975&doi=10.1109%2fGLOCOMW.2017.8269049&partnerID=40&md5=3c77577d51f2026be2e59169f0be0875									
+Liu20181	Latency and Reliability-Aware Task Offloading and Resource Allocation for Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050463584&doi=10.1109%2fGLOCOMW.2017.8269175&partnerID=40&md5=2a3fcafd60069198cc5d7567dace69cc									
+Yang2018	OPPOCO: From Ad Hoc Cloudlet-assisted edge computation to opportunistic computation offloading	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050999799&doi=10.4108%2feai.28-9-2017.2273365&partnerID=40&md5=51b27ddda6a9942a65cb59a51853a05a									
+AzharulKarim2018675	A machine learning based approach to mobile cloud offloading	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046081930&doi=10.1109%2fSAI.2017.8252168&partnerID=40&md5=31fd589a65de23e91b0e644ecec1a7d3									
+Muthanna201895	Enabling M2M communication through MEC and SDN	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053892283&doi=10.1007%2f978-3-319-99447-5_9&partnerID=40&md5=5ce3ea9179f74a413ba6d6b6e1790210									
+He2018311	Task offloading in edge-clouds with budget constraint	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058653078&doi=10.1007%2f978-3-030-05057-3_25&partnerID=40&md5=f56230df623282b7b6b2417c4e30e9b0									
+Li2018	An Energy-Aware Task Offloading Mechanism in Multiuser Mobile-Edge Cloud Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045646897&doi=10.1155%2f2018%2f7646705&partnerID=40&md5=025347369b6802b845dcda89747e44cf									
+Wen201896	Energy-Efficient Device-to-Device Edge Computing Network: An Approach Offloading Both Traffic and Computation	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053471224&doi=10.1109%2fMCOM.2018.17010543&partnerID=40&md5=5e307cc0c29dcb0211df4937904c8fa8									
+Min2018316	Analysis of energy aware job offloading in mobile cloud	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052880106&doi=10.1504%2fIJICT.2018.094320&partnerID=40&md5=0d39ff4fde90fb6fb8c08ccb1381ec3d									
+Li2018	A Computing Offloading Game for Mobile Devices and Edge Cloud Servers	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058965917&doi=10.1155%2f2018%2f2179316&partnerID=40&md5=2d2c20c81ed309fdbc17dadf586e6f25									
+Li2018	Energy Minimization and Offloading Number Maximization in Wireless Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063517325&doi=10.1109%2fGLOCOM.2018.8647904&partnerID=40&md5=bc48774a4ea39c5a88e0ba296c9132a3									
+Long2018460	Energy-efficient offloading in mobile edge computing with edge-cloud collaboration	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058627507&doi=10.1007%2f978-3-030-05057-3_35&partnerID=40&md5=c3cebfcb6070313db5e195ca8a75aeda									
+Mishra201856587	Energy-efficient deployment of edge dataenters for mobile clouds in sustainable iot	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054379709&doi=10.1109%2fACCESS.2018.2872722&partnerID=40&md5=882ed01cc88783f0bb6404d2f113034a									
+Chen201861	ThriftyEdge: Resource-Efficient Edge Computing for Intelligent IoT Applications	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041437063&doi=10.1109%2fMNET.2018.1700145&partnerID=40&md5=0558c7c26409a5b59d041712dfbf5edd									
+Guo2018	Energy-Efficient Task Offloading and Transmit Power Allocation for Ultra-Dense Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063550380&doi=10.1109%2fGLOCOM.2018.8647895&partnerID=40&md5=6289b557b21e02ac4e5eb8e7962e4dec									
+Somula2018309	A survey on mobile cloud computing: Mobile Computing + Cloud Computing (MCC = MC + CC)	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059550697&doi=10.12694%2fscpe.v19i4.1411&partnerID=40&md5=d44ed0c78e8c78da7f250cc60a93b47c									
+Zhou2018	An online algorithm for task offloading in heterogeneous mobile clouds	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041445921&doi=10.1145%2f3122981&partnerID=40&md5=bebf74df398e9a93d19ab2844becd69a									
+He2018	Energy-Efficient Mobile-Edge Computation Offloading for Applications with Shared Data	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063437409&doi=10.1109%2fGLOCOM.2018.8647282&partnerID=40&md5=c0d09ecb1585304d5b6623b1f42ff80f									
+Haghighi201811849	An offloading strategy in mobile cloud computing considering energy and delay constraints	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044308486&doi=10.1109%2fACCESS.2018.2808411&partnerID=40&md5=bb4302c484ab1dd460002bde72f35584									
+Yu2018355	POEM: Pricing longer for edge computing in the device cloud	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058616699&doi=10.1007%2f978-3-030-05057-3_28&partnerID=40&md5=fb1ae7e35a506690d4fd36accb40713c									
+Said2018621	Energy aware mobile cloud computing algorithm for android smartphones	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029475327&doi=10.1007%2f978-3-319-64861-3_58&partnerID=40&md5=e86b664b6f7794ec8c83a1d368f97424									
+Verma2018697	M2C: An Energy-Efficient Mechanism for Computation in Mobile Cloud Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042333966&doi=10.1007%2f978-981-10-6872-0_67&partnerID=40&md5=50484f70e29d5e4dda74586ee629ebd3									
+Chen2018	Dynamic service request scheduling for mobile edge computing systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053901917&doi=10.1155%2f2018%2f1324897&partnerID=40&md5=71f71eb310aa331b5f5a8c6e07654430									
+Thanapal201845	Energy saving offloading scheme for mobile cloud computing using CloudSim	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041598162&doi=10.1504%2fIJAIP.2018.089488&partnerID=40&md5=bbbac3f88d251726e4daea75e12fcf30									
+EranaVeerappaDinesh2018482	A survey on mobile task offloading and scheduling techniques	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060031374&partnerID=40&md5=930f4732202dcffb960e31f6907c9d2b									
+Lordan201883	Enabling GPU support for the COMPSs-mobile framework	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042224012&doi=10.1007%2f978-3-319-74896-2_5&partnerID=40&md5=0d3646538f077d04a4df27059218de2b									
+Huang201833	Deep reinforcement learning-based task offloading and resource allocation for mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055506516&doi=10.1007%2f978-3-030-00557-3_4&partnerID=40&md5=d9ad45b229eb78add3ffd062b3dac172									
+Jiang2018153	Predicted mobile data offloading for mobile edge computing systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058506675&doi=10.1007%2f978-3-030-05755-8_16&partnerID=40&md5=fbcc3e619fdb379cc6e776e3c3595577									
+Somula201839	Round robin with load degree: An algorithm for optimal cloudlet discovery in mobile cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043776009&doi=10.12694%2fscpe.v19i1.1392&partnerID=40&md5=c7d8399b0d76ff93a00f6121e9cd7404									
+Cao2018752	Distributed multiuser computation offloading for cloudlet-based mobile cloud computing: A game-theoretic machine learning approach	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028475032&doi=10.1109%2fTVT.2017.2740724&partnerID=40&md5=54394ebea6ed2695f60af4c74fa73512									
+Zhou2018	Augmentation techniques for mobile cloud computing: A taxonomy, survey, and future directions	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040677359&doi=10.1145%2f3152397&partnerID=40&md5=6959afb95f70d0961021aeaad9a42f7d									
+Lordan2018325	An architecture for programming distributed applications on fog to cloud systems	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042486149&doi=10.1007%2f978-3-319-75178-8_27&partnerID=40&md5=0f03ec997e10ef5f2cb351970c34056d									
+Samanta2018	Latency-Oblivious Distributed Task Scheduling for Mobile Edge Computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063477388&doi=10.1109%2fGLOCOM.2018.8647673&partnerID=40&md5=41d64306d9bfd47257dc2838903f2785									
+Hashim20184396	Investigation of security and privacy methods for public mobile cloud computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055928531&doi=10.3923%2fjeasci.2018.4396.4402&partnerID=40&md5=d463eb31135bde04cf9edd4fd17b4539									
+Jiang2018124	Opportunistic content offloading for mobile edge computing	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058504718&doi=10.1007%2f978-3-030-05755-8_13&partnerID=40&md5=5163dd37ce8ff22577222f8023d06076									
+Jiao201832	Optimal schedule of mobile edge computing under imperfect CSI	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058644476&doi=10.1007%2f978-3-030-05054-2_3&partnerID=40&md5=5ef0d34930aed33658aa9023ec17362e									
+Kumar2018575	Maya: An approach for energy and cost optimization for mobile cloud computing environments	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031422269&doi=10.1007%2f978-981-10-6620-7_55&partnerID=40&md5=709b14ece6b687635ce3a59fdd4b7133									
+Yan2018	Optimal Offloading and Resource Allocation in Mobile-Edge Computing with Inter-User Task Dependency	2018	https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063534563&doi=10.1109%2fGLOCOM.2018.8647523&partnerID=40&md5=73a1defe13bf07bd0ec79c2fa7698c6b									
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+				Sim								
+				Sim								
+				Não	aferiação	Sim, open source. Disponível no Github.	BenchImage	ImageTools	Não	2 computadores 2 smartphones em um teste e 20 smartphones em umm segundo teste	single cloudlet	Tempo de execuçao
+				Sim								
+				Sim								
+				Sim								
+				Não	Aferiação	Não	NQueens, Facedetection. Não.	Math, ImageTools	Não	1 dispositivo móvel e 1 notebook, ambos reais	single cloudlet	Tempo médio de execução, Conusmo médio de energia, acurácia da predição e tempo salvo com o offloading
