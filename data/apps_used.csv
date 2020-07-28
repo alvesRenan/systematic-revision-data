@@ -1,19 +1,16 @@
-matlab,13
 benchimage,8
 nqueens,6
 face detection/face recognition,26
-cloudsim,4
 streaming audio,2
 powertutor,1
 fingerprint application,1
 gps calculation,1 
 address book,1 
-ns simulator,3
 realidade aumentada,2
 android-ocr,4
 image filter,4
 chess,9
-sudoku,1
+sudoku,2
 n-queens,6
 bubble sort,2
 fibonacci,2
@@ -57,7 +54,6 @@ ethereum,1
 image processing,5
 video editor,1
 facebook,1
-sudoku,1
 quick sort,1
 collisionballs,1
 augumented reality,2
@@ -71,7 +67,5 @@ slam-based image recognition app,1
 coremark benchmark,1
 google maps,1
 trepn profiler,1
-qualnet 4.5,1
-edgecloudsim,1
 speech to text,1
 qr-code recogniton,1
